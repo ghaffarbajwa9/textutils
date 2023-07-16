@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ghaffarbajwa9/textutils/static/css/main.abd64e84.css",
+    "main.js": "/ghaffarbajwa9/textutils/static/js/main.43723af7.js",
+    "static/js/787.9e93611b.chunk.js": "/ghaffarbajwa9/textutils/static/js/787.9e93611b.chunk.js",
+    "index.html": "/ghaffarbajwa9/textutils/index.html",
+    "main.abd64e84.css.map": "/ghaffarbajwa9/textutils/static/css/main.abd64e84.css.map",
+    "main.43723af7.js.map": "/ghaffarbajwa9/textutils/static/js/main.43723af7.js.map",
+    "787.9e93611b.chunk.js.map": "/ghaffarbajwa9/textutils/static/js/787.9e93611b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.43723af7.js"
+  ]
+}
